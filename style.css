@@ -1,0 +1,31 @@
+*{font-family: 'Anton', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 90px;
+}
+
+.boutons{
+    text-align: center;
+    
+}
+
+button{
+    text-align: center;
+    font-size: 80px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.puit{
+    color : transparent;
+    background-color: transparent;
+    border:none;
+}
+
+.resultat{
+    text-align: center;
+    font-size: 50px;
+}
